@@ -1,0 +1,22 @@
+#first{
+  background-color: rgb(243, 248, 248);
+}
+#three {
+  width: 20% ;
+  height: 800px ;
+  box-sizing: border-box ;
+  float: left;
+  text-align: center;
+}
+#box2 {
+    width: 80%;
+    height: 800px ;
+    float: right;
+    box-sizing: border-box;
+
+}
+body {
+  font-size: medium ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(75, 71, 65);
+}
